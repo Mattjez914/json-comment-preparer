@@ -1,0 +1,4 @@
+{ // comment here
+  "key1": "value1",//second comment
+  "urls": ["https://humaninterest.com"] //last comment
+} //ok this is last comment
